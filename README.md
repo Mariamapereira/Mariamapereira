@@ -21,11 +21,9 @@
 </div>
 
 ---
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=rafaelalexandrino&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=rafaelalexandrino&show_icons=true&theme=radical&layout=compact" />
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
-
-
+<div 
+  align="center" style="margin-bottom:100px"> <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Mariamapereira&theme=radical&mode=weekly" /> <img width=40% align="center" src="https://github-readme-stats-git-main-Mariamapereira.vercel.app/api/top-langs/?username=Mariamapereira&show_icons=true&theme=radical&layout=compact" /> <img 
+src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 </div>
+
+
