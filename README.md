@@ -1,7 +1,7 @@
 <img src="giphy.gif" wildth= "325px" align= "right">
 
 
-🌱 Bem vindos ao meu Github!
+🌱 Bem-vindos ao meu Github!
 
 🚀 Iniciante no mundo da tecnologia | Estudante de Ciência de Dados 📊 | Aprendendo e evoluindo com paixão 💻 | 🎓 | Buscando oportunidades para colaborar e crescer 🌱  | Explorando o vasto universo da análise de dados e machine learning 📈🤖 | Conecte-se para compartilharmos conhecimento e experiências! 🤝✨
 
