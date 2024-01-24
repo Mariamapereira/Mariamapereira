@@ -17,9 +17,9 @@
 ---
   <div id="badges">
   <a href = "https://www.linkedin.com/in/mariama-pereira-22613926b/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"
 </div>
-  /> <img                                                                                                                                             src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+   <img                                                                                                                                             src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 </div>
 
 <img align="center" width="500" src="https://camo.githubusercontent.com/bc668d975a72bc165b534e3c8a231ba8c607f88e52b4545e4daec5a6d189d23b/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d386231747a26636f756e745f707269766174653d74727565267468656d653d7261646963616c" alt="Jas-Script" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariamapereira;count_private=true&amp;theme=radical" style="max-width: 100%;">
